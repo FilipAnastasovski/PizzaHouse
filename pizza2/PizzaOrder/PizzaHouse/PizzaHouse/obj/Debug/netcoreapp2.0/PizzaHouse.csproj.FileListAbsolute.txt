@@ -1,0 +1,11 @@
+C:\Users\filip.anastasovski\Desktop\Filip_A\asp\pizza2\PizzaOrder\PizzaHouse\PizzaHouse\bin\Debug\netcoreapp2.0\PizzaHouse.deps.json
+C:\Users\filip.anastasovski\Desktop\Filip_A\asp\pizza2\PizzaOrder\PizzaHouse\PizzaHouse\bin\Debug\netcoreapp2.0\PizzaHouse.runtimeconfig.json
+C:\Users\filip.anastasovski\Desktop\Filip_A\asp\pizza2\PizzaOrder\PizzaHouse\PizzaHouse\bin\Debug\netcoreapp2.0\PizzaHouse.runtimeconfig.dev.json
+C:\Users\filip.anastasovski\Desktop\Filip_A\asp\pizza2\PizzaOrder\PizzaHouse\PizzaHouse\bin\Debug\netcoreapp2.0\PizzaHouse.dll
+C:\Users\filip.anastasovski\Desktop\Filip_A\asp\pizza2\PizzaOrder\PizzaHouse\PizzaHouse\bin\Debug\netcoreapp2.0\PizzaHouse.pdb
+C:\Users\filip.anastasovski\Desktop\Filip_A\asp\pizza2\PizzaOrder\PizzaHouse\PizzaHouse\obj\Debug\netcoreapp2.0\PizzaHouse.csprojAssemblyReference.cache
+C:\Users\filip.anastasovski\Desktop\Filip_A\asp\pizza2\PizzaOrder\PizzaHouse\PizzaHouse\obj\Debug\netcoreapp2.0\PizzaHouse.csproj.CoreCompileInputs.cache
+C:\Users\filip.anastasovski\Desktop\Filip_A\asp\pizza2\PizzaOrder\PizzaHouse\PizzaHouse\obj\Debug\netcoreapp2.0\PizzaHouse.AssemblyInfoInputs.cache
+C:\Users\filip.anastasovski\Desktop\Filip_A\asp\pizza2\PizzaOrder\PizzaHouse\PizzaHouse\obj\Debug\netcoreapp2.0\PizzaHouse.AssemblyInfo.cs
+C:\Users\filip.anastasovski\Desktop\Filip_A\asp\pizza2\PizzaOrder\PizzaHouse\PizzaHouse\obj\Debug\netcoreapp2.0\PizzaHouse.dll
+C:\Users\filip.anastasovski\Desktop\Filip_A\asp\pizza2\PizzaOrder\PizzaHouse\PizzaHouse\obj\Debug\netcoreapp2.0\PizzaHouse.pdb
